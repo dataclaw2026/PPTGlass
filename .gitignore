@@ -1,0 +1,15 @@
+*.exe
+*.zip
+*.ini
+extracted/
+wrong_v01_archive/
+disasm.txt
+strings_vma.txt
+symbols.json
+*.bak
+card_dump.png
+card_rc.txt
+ss_dbg.txt
+ulw_rc.txt
+stm_dbg.txt
+mini_out.txt
